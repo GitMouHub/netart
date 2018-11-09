@@ -8,18 +8,19 @@ body {
   align-content: center;
 }
 
-h1 {
+/* heading text*/
+h3 {
   color: red;
   padding: 20px 0px 10px 0px;
 }
 
+/*link text*/
 a {
 color: #69CBBB;
 text-decoration: none;
 }
 
 /* Center images*/
-
 img {
   display: block;
   margin: 0px auto;

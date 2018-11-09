@@ -1,45 +1,17 @@
 body {
-  background-image:url("../assets/staticBG.jpg");
-  text-align: center;
-}
-
-
-p {
-  font-size: 16px;
-  color:blue;
+  margin: 30px auto;
+  max-width: 1000px;
+  font-family: "Helvetica", "Arial", sans-serif;
+  line-height: 1.5;
+  padding: 30px 20px;
 }
 
 h1 {
-  color: pink;
+  color: red;
+  padding: 20px 0px 10px 0px;
 }
 
-#top-box {
-   background: grey;
- }
-
-.big-tex {
-  font-size: : 50px;
-}
-
-.white-box {
-  background-color: white;
-  width: 500px;
-  padding: 50px;
-  border: 5px solid black;
-  margin: auto;
-}
-
-.white-box {
-  
-}
-
-
-
-.embed-container {
-  position: relative;
-  padding-bottom: 56.25%;
-  height: 0;
-  overflow: hidden;
-  max-width: 100%;
-  height: auto;
+a {
+color: #69CBBB;
+text-decoration: none;
 }

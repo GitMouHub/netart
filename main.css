@@ -17,3 +17,10 @@ a {
 color: #69CBBB;
 text-decoration: none;
 }
+
+/* Center images*/
+
+img {
+  display: block;
+  margin: 0px auto;
+}
